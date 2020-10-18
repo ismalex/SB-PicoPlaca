@@ -1,0 +1,52 @@
+{
+	"rules": {
+		"all-day": "false",
+		"timeAllowance": [
+			{
+				"type": "AM",
+				"start": "07:00",
+				"end": "09:30"
+			},
+			{
+				"type": "PM",
+				"start": "16:00",
+				"end": "19:30"
+			}
+		],
+		"days": [
+			{
+				"name": "Sunday", 
+				"plates": [ ]
+			},
+
+			{
+				"name": "Monday",
+				"plates": [ "1", "2" ]
+			},
+
+			{
+				"name": "Tuesday",
+				"plates": [ "3", "4" ]
+			},
+
+			{
+				"name": "Wednesday",
+				"plates": [ "5", "6" ]
+			},
+
+			{
+				"name": "Thursday",
+				"plates": [ "7", "8" ]
+			},
+
+			{
+				"name": "Friday",
+				"plates": [ "9", "0" ]
+			},
+			{
+				"name": "Saturday",
+				"plates": [ ]
+			}
+		]
+	}
+}
