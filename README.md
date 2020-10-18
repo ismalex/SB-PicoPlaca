@@ -1,3 +1,7 @@
+## Pico y Placa Predictor
+App to describe whether a car with a certain license plate number and depending  on a specific time of the day is allowed drive the city or not. 
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
